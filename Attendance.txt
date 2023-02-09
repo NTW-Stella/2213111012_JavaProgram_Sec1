@@ -1,4 +1,4 @@
 StudentID:2213111012
 Fullname :Natthawut Sawankhalok
 AKA : Pee
-ClassDetail:Composition and Inheritance
+ClassDetail:Abstract and Interface
